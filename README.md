@@ -1,27 +1,36 @@
 # Memoteca
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
+# Projeto de Estudo - Angular 14: CRUD Básico
 
-## Development server
+## Objetivo
+Desenvolver um entendimento sólido sobre os conceitos essenciais do Angular através da criação de um CRUD básico. Este projeto de estudo abrange desde a configuração inicial até a implementação de operações CRUD utilizando Angular CLI e HttpClient.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+### 1. Configuração Inicial
+- Como criar um novo projeto Angular usando Angular CLI.
+- A explorar a estrutura gerada e entender a organização dos arquivos.
 
-## Code scaffolding
+### 2. Componentes e Modularização
+- A criar e modularizar componentes para diferentes partes da aplicação.
+- A reutilizar componentes para construir uma interface de usuário dinâmica.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### 3. Manipulação de Dados
+- A utilizar property binding, interpolação, event binding e two-way data binding.
+- A atualizar propriedades e exibir dados dinâmicos nos templates.
 
-## Build
+### 4. Diretivas Angular
+- A adicionar e utilizar diretivas Angular como *ngIf*, *ngFor*, *ngClass*, e *ngStyle*.
+- A manipular o DOM dinamicamente com diretivas.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### 5. Navegação entre Componentes
+- A configurar rotas para permitir a navegação dinâmica entre diferentes partes da aplicação.
+- A utilizar parâmetros de rota para transmitir informações entre componentes.
 
-## Running unit tests
+### 6. Injeção de Dependências
+- A implementar injeção de dependências para facilitar a gestão de componentes e serviços.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### 7. Requisições HTTP e CRUD
+- A utilizar a classe HttpClient para realizar requisições HTTP.
+- A desenvolver operações CRUD (Create, Read, Update, Delete) para interagir com um backend RESTful.
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Conclusão
+Ao completar este projeto de estudo, sinto-me capacitado(a) a aplicar os conhecimentos adquiridos na construção de aplicações Angular mais complexas. Estou confiante em minha habilidade de realizar operações CRUD, manipular rotas e utilizar conceitos fundamentais do Angular.
